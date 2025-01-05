@@ -6,4 +6,5 @@ Creating a new branch is quick and simple.
 test no diff
 test no-ff2
 test no-ff3
+add hello.py
 
